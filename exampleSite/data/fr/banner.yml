@@ -9,4 +9,4 @@ banner:
   button:
     enable: true
     label: Décrouvrir mon profil
-    link: "#services"
+    link: "#about"
