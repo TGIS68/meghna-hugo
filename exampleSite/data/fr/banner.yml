@@ -5,7 +5,7 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: 'Bienvenue sur mon portfolio, Théo Gissinger'
-  content: 'c'est un test'
+  content: ''
   button:
     enable: true
     label: Décrouvrir mon profil
