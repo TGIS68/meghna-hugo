@@ -9,13 +9,13 @@ about:
   about_item:
   - icon: ti-ruler-pencil
     title: Mes compétences techniques
-    button:
-      enable: true
-      label: Voir mes compétences
-      link: "#competences"'
+    content: '
+    '
   - icon: ti-cup
     title: We're Professional
-    content: ''
+    content: '
+    '
   - icon: ti-thought
     title: We're Genius
-    content: ''
+    content: '
+    '
