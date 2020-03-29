@@ -70,8 +70,3 @@ portfolio:
     - photography
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     link: "#"
-menu:
-  main:
-    URL: blog
-    name: Blog
-    weight: 3

@@ -17,14 +17,6 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
-URL = "about"
-name = "Réalisations"
-weight = 2
 [params]
 author = "Théo Gissinger"
 description = ""
