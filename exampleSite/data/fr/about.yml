@@ -2,15 +2,18 @@
 about:
   enable : true
   title : A propos de moi
+  button : 
+    enable : true
+    label : "test"
+    link : "#services"
+
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
+    content : ''
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : We're Professional
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : We're Genius
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
