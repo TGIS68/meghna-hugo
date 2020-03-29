@@ -2,6 +2,10 @@
 about:
   enable: true
   title: Mon profil
+  button:
+    enable: true
+    label: test
+    link: "#contact"
   about_item:
   - icon: ti-ruler-pencil
     title: Mes compétences
