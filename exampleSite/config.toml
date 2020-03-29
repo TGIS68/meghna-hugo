@@ -26,7 +26,7 @@ URL = "technicalskill"
 name = "Compétences"
 weight = 2
 [[menu.main]]
-URL = "blog"
+URL = "technicalskill"
 name = "Réalisation"
 weight = 3
 [[menu.main]]
