@@ -9,4 +9,4 @@ banner:
   button:
     enable : true
     label : "Découvrez mon profil"
-    link : "#profil"
+    link : "#about"

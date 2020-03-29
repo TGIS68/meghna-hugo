@@ -43,7 +43,7 @@ link = "plugins/google-map/map.js"
 ############################# Navigation ##################################
 [[menu.main]]
 name = "Profil"
-URL = "profil"
+URL = "about"
 weight = 1
 
 [[menu.main]]
