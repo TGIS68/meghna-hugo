@@ -5,6 +5,22 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Skill
+- type: directory
+  path: exampleSite/Content/french/technicalskill
+  label: technical skill (en)
+  create: documents
+  match: "**/*"
+  templates:
+  - post
+- type: directory
+  path: exampleSite/Content/english/technicalskill
+  label: technical skill (en)
+  create: documents
+  match: "**/*"
+  templates:
+  - post
+- type: heading
   label: Blog Post
 - type: directory
   path: exampleSite/content/english/blog
