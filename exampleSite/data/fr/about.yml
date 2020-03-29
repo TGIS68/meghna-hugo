@@ -7,9 +7,6 @@ about:
     title: Mes compétences techniques
     content: ''
       button:
-    enable: true
-    label: Start a project with us
-    link: "#competences"
   - icon: ti-cup
     title: We're Professional
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
