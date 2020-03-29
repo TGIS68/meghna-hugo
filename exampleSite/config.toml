@@ -18,28 +18,12 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 1
 [[menu.main]]
-URL = "services"
-name = "Service"
-weight = 1
-[[menu.main]]
-URL = "team"
-name = "Team"
-weight = 4
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-weight = 5
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 3
-[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 7
+weight = 4
 [[menu.main]]
 URL = "about"
-name = "Profil"
+name = "Réalisations"
 weight = 2
 [params]
 author = "Théo Gissinger"
