@@ -25,3 +25,21 @@ fields:
     - type: textarea
       name: content
       label: content
+    - name: button
+      type: field_group
+      config: {}
+      fields:
+      - name: enable
+        type: boolean
+        label: enable
+      - name: label
+        type: text
+        config:
+          required: false
+        label: Label
+      - name: link
+        type: text
+        config:
+          required: false
+        label: link
+      label: button
