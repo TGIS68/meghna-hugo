@@ -2,6 +2,9 @@
 about:
   enable: true
   title: Mon profil
+  button:
+    enable: true
+    label: test
   about_item:
   - icon: ti-ruler-pencil
     title: Mes compétences techniques
@@ -12,6 +15,3 @@ about:
   - icon: ti-thought
     title: We're Genius
     content: ''
- - button:
-   enable: true
-   label: test
