@@ -1,7 +1,7 @@
 ############################# About ###################################
-about:
+profil:
   enable : true
-  title : About Us
+  title : A propos de moi
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We're Creative
