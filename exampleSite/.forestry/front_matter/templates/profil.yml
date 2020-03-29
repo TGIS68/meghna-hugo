@@ -43,3 +43,5 @@ fields:
           required: false
         label: link
       label: button
+pages:
+- exampleSite/data/fr/about2.yml.md
