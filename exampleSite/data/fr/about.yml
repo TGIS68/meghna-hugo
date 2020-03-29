@@ -2,7 +2,7 @@
 about:
   enable: true
   title: Mon profil
-  button2:
+  button:
     enable: true
     label: Voir mes réalisations
     link: "#realisations"
