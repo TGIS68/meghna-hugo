@@ -6,6 +6,16 @@ cta:
   title: Great Design & Incredible Features
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur
     odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum.
+  about_item:
+  - icon: ti-ruler-pencil
+    title: Mes compétences
+    content: ''
+  - icon: ti-cup
+    title: Mes réalisations
+    content: ''
+  - icon: ti-thought
+    title: Plus sur ma personne
+    content: ''
   button:
     enable: true
     label: Start a project with us
