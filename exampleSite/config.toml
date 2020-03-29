@@ -42,17 +42,17 @@ link = "plugins/google-map/map.js"
 
 ############################# Navigation ##################################
 [[menu.main]]
-name = "About Us"
+name = "Profil"
 URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "Service"
+name = "Compétences"
 URL = "services"
 weight = 2
 
 [[menu.main]]
-name = "Portfolio"
+name = "Réalisation"
 URL = "portfolio"
 weight = 3
 
@@ -137,7 +137,7 @@ link = "#"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 
 ################################ France Language ########################
@@ -145,5 +145,5 @@ home = "Home"
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
-weight = 2
+weight = 1
 home = "Accueil"
