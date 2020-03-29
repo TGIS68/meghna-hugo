@@ -2,15 +2,13 @@
 about:
   enable: true
   title: Mon profil
-  button:
-    enable: true
-    label: test
-    link: "#contact"
   about_item:
   - icon: ti-ruler-pencil
     title: Mes compétences
     content: ''
-    link: "#realisations"
+    button:
+      label: "test"
+      link: "#contact"
   - icon: ti-cup
     title: Mes réalisations
     content: ''
