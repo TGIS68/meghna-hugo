@@ -9,11 +9,12 @@ about:
   about_item:
   - icon: ti-ruler-pencil
     title: Mes compétences techniques
-    content: ''
+    content: '
     button:
       enable: true
       label: Voir mes compétences
       link: "#competences"'
+     '
   - icon: ti-cup
     title: We're Professional
     content: ''
