@@ -6,7 +6,7 @@ about:
     enable: true
     label: Voir mes compétences
     link: "#competences"
-  button:
+  button2:
     enable: true
     label: Voir mes réalisations
     link: "#realisations"
