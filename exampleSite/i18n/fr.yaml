@@ -1,4 +1,6 @@
 ---
+- id: allrealisation
+  translation: Voir toutes les réalisations
 - id: compétences
   translation: Mes compétences
 - id: blogTitle
