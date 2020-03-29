@@ -5,45 +5,37 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "Meghna"
-[Languages.fr]
-contentDir = "content/french"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 1
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
+[Languages.fr]
+contentDir = "content/french"
+home = "Accueil"
+languageCode = "fr-fr"
+languageName = "Fr"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "Profil"
-weight = 2
+weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 7
+weight = 5
 [[menu.main]]
 URL = "portfolio"
-name = "Portfolio"
+name = "Réalisations"
 weight = 3
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 6
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-weight = 5
-[[menu.main]]
-URL = "team"
-name = "Team"
 weight = 4
 [[menu.main]]
 URL = "services"
-name = "Service"
+name = "Compétences"
 weight = 2
 [params]
 author = "Themefisher"
