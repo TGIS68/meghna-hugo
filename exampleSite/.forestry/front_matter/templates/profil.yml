@@ -25,3 +25,9 @@ fields:
     - type: textarea
       name: content
       label: content
+    - name: button
+      type: text
+      config:
+        required: false
+      label: button
+      hidden: false
