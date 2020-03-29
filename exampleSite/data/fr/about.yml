@@ -12,6 +12,6 @@ about:
   - icon: ti-thought
     title: We're Genius
     content: '
-      button:
-      label: test
-      '
+ - button:
+   enable: true
+   label: test
