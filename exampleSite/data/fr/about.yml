@@ -8,14 +8,11 @@ about:
     link: "#realisations"
   about_item:
   - icon: ti-ruler-pencil
-    title: Mes compétences techniques
-    content: '
-    '
+    title: Mes compétences
+    content: ''
   - icon: ti-cup
-    title: We're Professional
-    content: '
-    '
+    title: Mes réalisations
+    content: ''
   - icon: ti-thought
-    title: We're Genius
-    content: '
-    '
+    title: Plus sur ma personne
+    content: ''
