@@ -5,7 +5,7 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Bienvenue sur mon portfolio
-  content: Théo Gissinger | Expert en administration système et réseau
+  content: Théo Gissinger   -   Expert en administration système et réseau
   button:
     enable: true
     label: Décrouvrir mon profil
