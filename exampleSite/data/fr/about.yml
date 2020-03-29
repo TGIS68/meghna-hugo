@@ -3,7 +3,7 @@ about:
   enable: true
   title: Mon profil
   about_item:
-  - icon: ti-ruler-pencil
+  - icon: competences
     title: Mes compétences
     content: ''
     button:
