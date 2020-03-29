@@ -7,7 +7,7 @@ about:
     label: test
     link: "#contact"
   about_item:
-  - icon: competences
+  - icon: ti-ruler-pencil
     title: Mes compétences
     content: ''
     link: "#realisations"
