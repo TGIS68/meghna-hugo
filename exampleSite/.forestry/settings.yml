@@ -8,7 +8,7 @@ sections:
   label: Skill
 - type: directory
   path: exampleSite/Content/french/technicalskill
-  label: technical skill (en)
+  label: technical skill (fr)
   create: documents
   match: "**/*"
   templates:
