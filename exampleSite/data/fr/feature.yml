@@ -24,3 +24,8 @@ feature:
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
+menu:
+  main:
+    URL: services
+    name: Compétences
+    weight: 1
