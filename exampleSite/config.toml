@@ -22,7 +22,7 @@ URL = "about"
 name = "Profil"
 weight = 1
 [[menu.main]]
-URL = "services"
+URL = "technicalskill"
 name = "Compétences"
 weight = 2
 [[menu.main]]
