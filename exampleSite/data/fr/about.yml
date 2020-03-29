@@ -6,9 +6,6 @@ about:
   - icon: ti-ruler-pencil
     title: Mes compétences
     content: ''
-    button:
-      label: "test"
-      link: "#contact"
   - icon: ti-cup
     title: Mes réalisations
     content: ''
