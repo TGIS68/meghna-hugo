@@ -4,7 +4,12 @@ about:
   title: Mon profil
   button:
     enable: true
-    label: test
+    label: Voir mes compétences
+    link: "#competences"
+  button:
+    enable: true
+    label: Voir mes réalisations
+    link: "#realisations"
   about_item:
   - icon: ti-ruler-pencil
     title: Mes compétences techniques
