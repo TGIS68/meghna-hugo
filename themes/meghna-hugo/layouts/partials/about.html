@@ -21,12 +21,17 @@
 			<div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
 				<div class="block">
 					<div class="icon-box">
-						{{with .icon}}<i class="{{ . }}"></i>{{ end }}
+						{{with .icon}}<i class="{{ . }}"></i>{{ end }}			
 					</div>
 					{{"<!-- Express About Yourself -->" | safeHTML}}
 					<div class="content text-center">
 						<h3>{{ .title }}</h3>
 						<p>{{ .content | markdownify }}</p>
+						{{ if .button.enable }}
+					 	{{ with .button }}
+						<a href="{{ .link }}" class="btn btn-main page-scroll">{{ .label }}</a>
+						{{ end }}
+						{{ end }}
 					</div>
 				</div>
 			</div>

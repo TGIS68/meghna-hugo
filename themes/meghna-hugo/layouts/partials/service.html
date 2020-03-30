@@ -25,7 +25,7 @@
 					</div>
 					<h3>{{ .name | markdownify }}</h3>
 					<p>{{ .content | markdownify }}</p>
-				</div>
+					<a class="btn btn-transparent" href="{{ .link }}">{{ i18n "skill" }}</a>				
 			</article>
 			{{"<!-- End Single Service Item -->" | safeHTML }}
 			{{ end }}

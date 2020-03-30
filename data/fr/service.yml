@@ -32,3 +32,7 @@ service:
     - name : Networking
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+    - name : test1
+      content : test
+      link : skill/simple-blog-post-1/

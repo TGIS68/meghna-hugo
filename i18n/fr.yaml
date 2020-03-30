@@ -2,6 +2,8 @@
   translation: Dernier message
 - id: readMore
   translation: Lire la suite
+- id: skill
+  translation: Voir cette compétence
 - id: viewAllPost
   translation: Voir tous les articles
 - id: share
