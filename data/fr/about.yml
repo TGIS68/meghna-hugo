@@ -1,19 +1,26 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : Mon profil
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Mes compétences
+    content : Au travers de mes différentes experiences et réalisations, j'ai su développer de nombreuses compétences, techniques et transverses
     button : 
       enable : true
       label : "voir toutes mes compétences"
       link : "#contact"
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
+    title : Mes réalisations
+    content : Mes différentes réalisations, professionelle et personnelle, m'ont permis de mettre en pratique mes compétences et d'en acquérir d'autres  
+    button :
+      enable : true
+      label : "voir mes réalisations"
+      link : "#contact"
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Mon profil
+    content : En dehors de mon activité professionnelle, je possède de nombreuses passions, divertissements et sports que j'aimerais vous faire partager
+    button :
+      enable : true
+      label : "plus sur mon profil"
+      link : "#contact"

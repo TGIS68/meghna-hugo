@@ -2,7 +2,6 @@
 service:
   enable : true
   title : Mes compétences
-  subtitle : Compétences Techniques
   service_item :
     # service item loop
 #    - name : WordPress Theme
@@ -37,14 +36,3 @@ service:
     - name : test1
       content : test
       link : skill/simple-blog-post-1/
-transverse: 
-  enable : true
-  title : Mes compétences
-  subtitle : Compétences Transverses
-  transverse_item :
-    - name : test 
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    - name : test2
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
