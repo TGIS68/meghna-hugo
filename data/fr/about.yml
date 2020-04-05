@@ -9,18 +9,18 @@ about:
     button : 
       enable : true
       label : "voir toutes mes compétences"
-      link : "#contact"
+      link : "#service"
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : Mes réalisations
     content : Mes différentes réalisations, professionelle et personnelle, m'ont permis de mettre en pratique mes compétences et d'en acquérir d'autres  
     button :
       enable : true
       label : "voir mes réalisations"
-      link : "#contact"
+      link : "#blog"
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : Mon profil
     content : En dehors de mon activité professionnelle, je possède de nombreuses passions, divertissements et sports que j'aimerais vous faire partager
     button :
       enable : true
       label : "plus sur mon profil"
-      link : "#contact"
+      link : "profil/john-doe"

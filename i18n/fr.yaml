@@ -1,11 +1,17 @@
 - id: blogTitle
-  translation: Dernier message
+  translation: Mes réalisations
+- id: blogsubtitle2
+  translation: Réalisations personnelles
+- id: blogsubtitle1
+  translation: Réalisations professionnelles  
 - id: readMore
   translation: Lire la suite
 - id: skill
   translation: Voir cette compétence
 - id: viewAllPost
-  translation: Voir tous les articles
+  translation: Voir toutes
+- id: viewAllPost2
+  translation: Voir toutes
 - id: share
   translation: Partager
 - id: aboutAuthor

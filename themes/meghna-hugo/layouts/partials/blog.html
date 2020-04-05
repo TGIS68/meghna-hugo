@@ -1,6 +1,7 @@
 {{ if gt .Site.RegularPages 0}}
 {{"<!-- Start Blog Section -->" | safeHTML}}
-<section id="skill" class="section">
+<!--<section id="skill" class="section">-->
+<section id="skills" class="parallax-section section section-bg overly">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-12">
@@ -10,17 +11,38 @@
 						{{ with i18n "blogTitle" }} {{ index (split . " ") 1 }} {{ end }}</span></h2>
 					<div class="border-meghna"></div>
 				</div>
+				<div class="title texte-left wow fadeIn" data-wow-duration="500ms">
+					<h2>{{ with i18n "blogsubtitle1" }} {{ index (split . " ") 0 }} {{ end }}<span class="color">
+						{{ with i18n "blogsubtitle1" }} {{ index (split . " ") 1 }} {{ end }}</span></h2>
+				</div>
 			</div>
 			{{"<!-- /section title -->" | safeHTML}}
 
-			{{ range first 3 (where .Site.RegularPages "Section" "==" "skill")}}
+			{{ range first 3 (where .Site.RegularPages "Section" "==" "professional")}}
 			{{ .Render "article"}}
 			{{ end }}
 
 			<div class="all-post text-center col-lg-12">
 				<a class="btn btn-main"
-					href="{{ `skill` | absLangURL }}">{{ i18n "viewAllPost" }}</a>
+					href="{{ `professional` | absLangURL }}">{{ i18n "viewAllPost" }}</a>
 			</div>
+			<div class="col-lg-12">
+				<div class="title texte-left wow fadeIn" data-wow-duration="500ms">
+					<h2>{{ with i18n "blogsubtitle2" }} {{ index (split . " ") 0 }} {{ end }}<span class="color">
+						{{ with i18n "blogsubtitle2" }} {{ index (split . " ") 1 }} {{ end }}</span></h2>
+				</div>
+			</div>
+			{{"<!-- /section title -->" | safeHTML}}
+
+			{{ range first 3 (where .Site.RegularPages "Section" "==" "personnal")}}
+			{{ .Render "article"}}
+			{{ end }}
+
+			<div class="all-post text-center col-lg-12">
+				<a class="btn btn-main"
+					href="{{ `personnal` | absLangURL }}">{{ i18n "viewAllPost2" }}</a>
+			</div>
+
 		</div>
 	</div>
 </section>
