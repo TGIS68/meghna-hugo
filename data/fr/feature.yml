@@ -12,19 +12,19 @@ feature:
     - title : Système
       icon : ti-desktop
       #icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : blablabla
+      content : Les systèmes informatiques sont rapidement devenus des éléments indispensables pour une organisation. Du matériel informatique aux services rendus, le chemin est long et les choix multiples. C'est cette multitude de technologies et de possibilités qui rend cette branche si intéressante à mon goût.  
       
       # feature item loop
     - title : Réseau
       icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
-      content : blablabla
+      content : Comment se dispenser des réseaux informatiques ? Sans eux les échanges d'informations ne serait même pas possible à grande portée. Les infrastructures réseaux et leur complexité font de cette branche, un secteur intéressant pour lequel je prends du plaisir à approndir.    
 
       # feature item loop
     - title : Cybersécurité
       icon : ti-shield # themify icon pack : https://themify.me/themify-icons
-      content : blablabla
+      content : La sécurité des systèmes d'information ou cybersécurité à émergé ces dernières années avec une prise de conscience générale suite à de nombreuses attaques et indidents dubit sur les systèmes d'informations du mon entier. C'est une branche nouvelle pour moi, que je cherche à accroître. 
    
       # feature item loop
     - title : Gestion de projet
       icon : ti-eye # themify icon pack : https://themify.me/themify-icons
-      content : blablabla
+      content : La gestion de projet est une démarche visant à organiser de bout en bout le bon déroulement d'un projet. Plusieurs méthodes existent, permettant de s'adapter aux différents contextes des projets. Les difficultés résultent dans l'application et le respect de ces méthodes.
