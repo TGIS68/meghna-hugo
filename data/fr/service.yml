@@ -16,12 +16,13 @@ service:
       
     # service item loop
     - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      icon : flaticon-cyber-security
+      # icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
     - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      # icon : ti-palette # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
@@ -31,7 +32,7 @@ service:
       
     # service item loop
     - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      #icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
 
     - name : test1
@@ -43,8 +44,8 @@ transverse:
   subtitle : Compétences Transverses
   transverse_item :
     - name : test 
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      #icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
     - name : test2
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      #icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

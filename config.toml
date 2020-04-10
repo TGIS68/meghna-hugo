@@ -10,7 +10,7 @@ summaryLength = "15"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 #disableLanguages = []
-#Language = "Fr" 
+DefaultContentLanguage = "fr" 
 
 ############################# Plugins ##########################
 # css plugins
@@ -18,6 +18,8 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/flaticon-icons/font/flaticon.css"
 [[params.plugins.css]]
 link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
