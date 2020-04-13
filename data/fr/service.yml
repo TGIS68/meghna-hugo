@@ -4,48 +4,60 @@ service:
   title : Mes compétences
   subtitle : Compétences Techniques
   service_item :
-    # service item loop
-#    - name : WordPress Theme
-#      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-#      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-#    - name : Responsive Design
-#      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-#      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Media &amp; Advertisement
-      icon : flaticon-cyber-security
-      # icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Graphic Design
-      # icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-#    - name : Apps Development
-#      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-#      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Networking
-      #icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    
+    - name : Administration système GNU/Linux
+      icon : flaticon-linux-logo
+      content : Les systèmes GNU/Linux sont depuis longtemps des alternatives crédibles aux systèmes d'exploitation propriétaires de le domaine des serveurs et postes de travail    
+      link : competences/adm-sys-linux/
 
-    - name : test1
-      content : test
-      link : skill/simple-blog-post-1/
+    - name : Administration système Windows
+      icon : flaticon-windows
+      content : Bien connu de tous, les systèmes Microsoft Windows sont omniprésents dans les environnements professionnel et personnel depuis longtemps 
+      link : competences/adm-sys-windows/
+
+    - name : Administration et sécurité des réseaux 
+      icon : flaticon-globalization 
+      content : Les réseaux sont de plus en plus conséquents et les technologies ne cessent d'évoluer, ils sont vitaux pour une infrastructure informatique
+      link : competences/adm-rsx/
+   
+    - name : Cybersécurité
+      icon : flaticon-cyber-security
+      content : La cybersécurité est une branche plus récente de l'informatique mais indispensable pour la disponibilité et l'intégrité des installations
+      link : competences/cybersecurite/
+
+    - name : Virtualisation
+      icon : flaticon-mobile
+      content : La virtualisation est une technologie de plus en plus présente dans les infrastructures informatiques due aux nombreux avantages qu'elle apporte 
+      link : competences/virtualisation
+
+    - name : Gestion de projet
+      icon : flaticon-clipboard
+      content : Assurer le bon déroulement d'un projet en tenant compte de l'ensemble des facteurs, tel est la mission importante de la gestion de projet 
+      link : competences/management  
+
 transverse: 
   enable : true
   title : Mes compétences
   subtitle : Compétences Transverses
   transverse_item :
-    - name : test 
-      #icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    - name : test2
-      #icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Perséverance 
+      icon : flaticon-study
+      content : Les grands accomplissements sont réussis non pas par la force, mais par la persévérance
+      link : competences/perseverance
+
+    - name : Adaptabilité
+      icon : flaticon-risks
+      content : La souplesse et la capacité d'adaptation sont des outils indispensables pour faire face aux situations les plus difficiles
+    
+    - name : Travail d'équipe
+      icon : flaticon-team
+      content : Se réunir est un début, rester ensemble est un progrès, travailler ensemble est la réussite 
+    
+    - name : Communication
+      icon : flaticon-meeting
+      content : La chose la plus importante en communication, c'est d'entendre ce qui n'est pas dit
+      link : competences/communication
+
+    - name : Organisation
+      icon : flaticon-workflow
+      content : Vouloir tout faire est une illusion car il y aurait toujours plus de choses à faire que de temps disponible  

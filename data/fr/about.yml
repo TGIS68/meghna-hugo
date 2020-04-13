@@ -16,7 +16,7 @@ about:
     button :
       enable : true
       label : "voir mes réalisations"
-      link : "#blog"
+      link : "#skills"
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : Mon profil
     content : En dehors de mon activité professionnelle, je possède de nombreuses passions, divertissements et sports que j'aimerais vous faire partager

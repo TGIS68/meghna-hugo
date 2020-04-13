@@ -1,9 +1,15 @@
 - id: blogTitle
   translation: Latest Post
+- id: blogsubtitle2
+  translation: not available 
+- id: blogsubtitle1
+  translation: not available
 - id: readMore
   translation: Read more
 - id: viewAllPost
-  translation: View All Post
+  translation: View All
+- id: viewAllPost2
+  translation: View All
 - id: share
   translation: Share
 - id: aboutAuthor
