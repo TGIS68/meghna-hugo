@@ -16,34 +16,34 @@
 						{{ with i18n "blogsubtitle1" }} {{ index (split . " ") 1 }} {{ end }}</span></h2>
 				</div>
 			</div>
-			{{"<!-- /section title -->" | safeHTML}}
+					{{"<!-- /section title -->" | safeHTML}}
 
-			{{ range first 3 (where .Site.RegularPages "Section" "==" "professional")}}
-			{{ .Render "article"}}
-			{{ end }}
+					{{ range first 6 (where .Site.RegularPages "Section" "==" "professional")}}
+					{{ .Render "article"}}
+					{{ end }}
 
-			<div class="all-post text-center col-lg-12">
-				<a class="btn btn-main"
-					href="{{ `professional` | absLangURL }}">{{ i18n "viewAllPost" }}</a>
-			</div>
+					<div class="all-post text-center col-lg-12">
+						<a class="btn btn-main"
+							href="{{ `professional` | absLangURL }}">{{ i18n "viewAllPost" }}</a>
+					</div>
 			<div class="col-lg-12">
 				<div class="title texte-left wow fadeIn" data-wow-duration="500ms">
 					<h2>{{ with i18n "blogsubtitle2" }} {{ index (split . " ") 0 }} {{ end }}<span class="color">
 						{{ with i18n "blogsubtitle2" }} {{ index (split . " ") 1 }} {{ end }}</span></h2>
+					</div>
 				</div>
+					{{"<!-- /section title -->" | safeHTML}}
+
+					{{ range first 3 (where .Site.RegularPages "Section" "==" "personnal")}}
+					{{ .Render "article"}}
+					{{ end }}
+
+					<div class="all-post text-center col-lg-12">
+						<a class="btn btn-main"
+						href="{{ `personnal` | absLangURL }}">{{ i18n "viewAllPost2" }}</a>
+					</div>
+
 			</div>
-			{{"<!-- /section title -->" | safeHTML}}
-
-			{{ range first 3 (where .Site.RegularPages "Section" "==" "personnal")}}
-			{{ .Render "article"}}
-			{{ end }}
-
-			<div class="all-post text-center col-lg-12">
-				<a class="btn btn-main"
-					href="{{ `personnal` | absLangURL }}">{{ i18n "viewAllPost2" }}</a>
-			</div>
-
-		</div>
 	</div>
 </section>
 {{"<!-- /blog -->" | safeHTML}}

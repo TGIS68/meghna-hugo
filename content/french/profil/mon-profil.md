@@ -1,5 +1,5 @@
 ---
-title: "John Doe"
+title: "Mon Profil"
 image: ""
 email: "email2@example.org"
 social:

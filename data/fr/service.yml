@@ -8,22 +8,22 @@ service:
     - name : Administration système GNU/Linux
       icon : flaticon-linux-logo
       content : Les systèmes GNU/Linux sont depuis longtemps des alternatives crédibles aux systèmes d'exploitation propriétaires de le domaine des serveurs et postes de travail    
-      link : competences/adm-sys-linux/
+      link : competences/adm-sys-linux
 
     - name : Administration système Windows
       icon : flaticon-windows
       content : Bien connu de tous, les systèmes Microsoft Windows sont omniprésents dans les environnements professionnel et personnel depuis longtemps 
-      link : competences/adm-sys-windows/
+      link : competences/adm-sys-windows
 
     - name : Administration et sécurité des réseaux 
       icon : flaticon-globalization 
       content : Les réseaux sont de plus en plus conséquents et les technologies ne cessent d'évoluer, ils sont vitaux pour une infrastructure informatique
-      link : competences/adm-rsx/
+      link : competences/adm-rsx
    
     - name : Cybersécurité
       icon : flaticon-cyber-security
       content : La cybersécurité est une branche plus récente de l'informatique mais indispensable pour la disponibilité et l'intégrité des installations
-      link : competences/cybersecurite/
+      link : competences/cybersecurite
 
     - name : Virtualisation
       icon : flaticon-mobile
@@ -38,7 +38,7 @@ service:
 transverse: 
   enable : true
   title : Mes compétences
-  subtitle : Compétences Transverses
+  subtitle : Compétences Transversales
   transverse_item :
     - name : Perséverance 
       icon : flaticon-study
@@ -48,11 +48,13 @@ transverse:
     - name : Adaptabilité
       icon : flaticon-risks
       content : La souplesse et la capacité d'adaptation sont des outils indispensables pour faire face aux situations les plus difficiles
+      link : competences/adaptabilite
     
     - name : Travail d'équipe
       icon : flaticon-team
       content : Se réunir est un début, rester ensemble est un progrès, travailler ensemble est la réussite 
-    
+      link : competences/travail-equipe
+
     - name : Communication
       icon : flaticon-meeting
       content : La chose la plus importante en communication, c'est d'entendre ce qui n'est pas dit
@@ -61,3 +63,9 @@ transverse:
     - name : Organisation
       icon : flaticon-workflow
       content : Vouloir tout faire est une illusion car il y aurait toujours plus de choses à faire que de temps disponible  
+      link : competences/organisation
+
+    - name : Autonomie
+      icon : flaticon-idea
+      content : L'autonomie c'est l'aptitude à être autonome sur les missions confiées et ne pas nécessiter d'assistance
+      link : competences/autonomie

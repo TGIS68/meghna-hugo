@@ -1,18 +1,22 @@
 ---
-title: "Simple Blog Post"
-date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
-author: John Doe
-description : "This is meta description"
+title: "Virtualisation des systèmes"
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+### Définition
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Les technologies dites de «virtualisation» ont connu un essor important ces dernières années pour leur nombreux avantages.
+La virtusalisation permet de faire s’exécuter sur une même machine physique plusieurs systèmes jusqu’alors installés sur des machines physiques distinctes dans les buts principaux de faire des économies de place, d’énergie et de budget.
+Virtualiser nécessite de mettre en oeuvre une solution de virtualisation qui assure la gestion des différents systèmes virtualisés et la prise en charge des nombreuses fonctionnalités.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+### Mise en oeuvre
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+La virtualisation étant en plein essort, j'ai eu l'occasion de rencontrer plusieurs technologies d'hyperviseurs durant mes cycles de formation et expériences professionnelles.
+J'ai notamment pu mettre en oeuvre et tester les fonctionnalités de basculement, d'équilibrage de charge ou encore d'optimisation des ressources réparties.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Réalisations associées :
+
+### Bilan
+Les technologies de virtualisation sont multiples et en amélioration continue. 
+Les nombreux avantages incitent de plus en plus les entreprises à migrer sur des environnements totalement virtualisés.
+La virtualisation est un domaine assez récent d'autant plus la mise en oeuvre des solutions existantes est compelexe et demande des compétences spécifiques.
+C'est un domaine d'avenir qui m'intérèsse très particulièrement.

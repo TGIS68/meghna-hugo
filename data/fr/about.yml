@@ -5,7 +5,7 @@ about:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : Mes compétences
-    content : Au travers de mes différentes experiences et réalisations, j'ai su développer de nombreuses compétences, techniques et transverses
+    content : Au travers de mes différentes experiences et réalisations, j'ai su développer de nombreuses compétences, techniques et transversales
     button : 
       enable : true
       label : "voir toutes mes compétences"
@@ -17,10 +17,11 @@ about:
       enable : true
       label : "voir mes réalisations"
       link : "#skills"
+
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : Mon profil
     content : En dehors de mon activité professionnelle, je possède de nombreuses passions, divertissements et sports que j'aimerais vous faire partager
     button :
       enable : true
       label : "plus sur mon profil"
-      link : "profil/john-doe"
+      link : "profil/mon-profil"

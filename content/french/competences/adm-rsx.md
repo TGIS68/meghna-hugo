@@ -2,7 +2,7 @@
 title: "Administration et sécurité des réseaux"
 ---
 
-### Définitions
+### Définition
 L'implémentation de réseau sécurisé est généralement la première étape dans le cadre de la sécurisation d'un système d'information.
 Les réseaux sont un point sensible d'une architecture. En effet ils sont très souvent la cible d'attaque informatique tels que des deni de services ou à minima ils sont utilisés comme support pour une attaque visant les composants d'une infrastructure.
 Il est donc nécessaire d'intégrer des mesures de sécurité sur le réseau et ces mesures doivent être refléchies dès la conception du réseau.

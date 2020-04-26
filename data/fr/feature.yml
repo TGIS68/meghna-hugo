@@ -5,8 +5,8 @@ feature:
   image_webp : images/about/about-tgis.jpg
   #image : images/about/about-business-man.jpg
   #image_webp : images/about/about-business-man.webp
-  title : Expert en ingénierie des systèmes et réseaux | cybersécurité
-  content : "Passionnée depuis très jeune par les technologies numériques, j'ai décidé d'en faire mon métier. J'ai su batir des compétences solides à partir de nombreuses expériences et réalisations. Le domaine informatique est large et les domaines nombreux, c'est pourquoi je me suis spécialisé dans les branches qui m'intéressent le plus."
+  title : Expert en ingénierie informatique
+  content : "Passionnée depuis très jeune par les technologies numériques, j'ai décidé d'en faire mon métier. J'ai su batir de solides compétences à partir de nombreuses expériences et réalisations. Le domaine informatique est large et les métiers nombreux, c'est pourquoi je me spécialise dans les branches qui m'intéressent le plus."
   feature_item : 
       # feature item loop
     - title : Système
@@ -17,12 +17,12 @@ feature:
       # feature item loop
     - title : Réseau
       icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
-      content : Comment se dispenser des réseaux informatiques ? Sans eux les échanges d'informations ne serait même pas possible à grande portée. Les infrastructures réseaux et leur complexité font de cette branche, un secteur intéressant pour lequel je prends du plaisir à approndir.    
+      content : Comment se dispenser des réseaux informatiques ? Sans eux les échanges d'informations ne serait même pas possible à grande échelle. Les infrastructures réseaux et leur complexité font de cette branche, un secteur intéressant pour lequel je prends du plaisir à approfondir.
 
       # feature item loop
     - title : Cybersécurité
       icon : ti-shield # themify icon pack : https://themify.me/themify-icons
-      content : La sécurité des systèmes d'information ou cybersécurité à émergé ces dernières années avec une prise de conscience générale suite à de nombreuses attaques et indidents dubit sur les systèmes d'informations du mon entier. C'est une branche nouvelle pour moi, que je cherche à accroître. 
+      content : La sécurité des systèmes d'information ou cybersécurité à émergé ces dernières années avec une prise de conscience générale suite à de nombreuses attaques et indidents dubit sur les systèmes d'informations du mon entier. C'est une nouvelle branche pour moi, que je cherche à accroître. 
    
       # feature item loop
     - title : Gestion de projet

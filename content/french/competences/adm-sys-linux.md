@@ -2,7 +2,7 @@
 title: "Administration système GNU/Linux"
 ---
 
-### Définitions
+### Définition
 
 L'administration des systèmes GNU/Linux consiste via un ensemble d'outils et de connaissance à installer, mettre en production et maintenir des composants basé sur cesystème d'exploitation.
 Le système d'exploitation GNU/Linux est un dérivé du système d'exploitation UNIX, il existe ensuite de nombreuses distribution comme par exemple RedHat, Mandriva, Suse, Debian, etc.
@@ -21,5 +21,5 @@ Réalisations associés
 
 ### Bilan
 L'administration des systèmes GNU/Linux sont très complexes et nécessite des compétences poussés pour maitriser entièrement les différents aspects d'administration du système.
-C'est une compétence qui est assez recherché et qui m'intéresse beaucoup CAR REJTORIGORNGSOIGN.
+C'est une compétence qui est assez recherché et qui m'intéresse beaucoup.
 Je m'investie personnnellement dans l'acquisition de nouvelles compétences durant mon temps libre afin d'être un expert de la matière.
